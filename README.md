@@ -1,14 +1,14 @@
 Hi 👋 My name is Kerem
 ======================
 
-Software Developer
+Senior Mobile Software Developer
 ------------------
 
-I am a Software Developer for 5+ years. Worked with Frontend, Backend but focused on Mobile Development with Flutter, Xamarin, Kotlin, Swift.
+I am a Software Developer for 8+ years. Worked with Frontend, Backend but focused on Mobile Development with Flutter, Xamarin, Kotlin, Swift.
 
-*   🌍  I'm based in Istanbul
-*   ✉️  You can contact me at [kerem.kozcan@gmail.com](mailto:kerem.kozcan@gmail.com)
-*   🚀  I'm currently working on [Proxify](http://proxify.io)<a href="https://www.twitter.com/ikeremozcan" target="_blank" rel="noreferrer"><img
+*   🌍  I'm based in Istanbul
+*   ✉️   You can contact me at [kerem.kozcan@gmail.com](mailto:kerem.kozcan@gmail.com)
+*   🚀  I'm currently working at [Proxify]([http://proxify.io](https://proxify.io/developers/flutter-xamarin-expert)) <a href="https://www.twitter.com/ikeremozcan" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/ikeremozcan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/ikeremozcan" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/ikeremozcan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
